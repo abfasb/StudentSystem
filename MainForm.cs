@@ -112,24 +112,6 @@ namespace Student_Information_System
         }
         public void designOfDGridView ()
         {
-            
-                /*dataGridView1.EnableHeadersVisualStyles = false;
-                dataGridView1.ColumnHeadersDefaultCellStyle.Font = new Font("Rockwell", 14, FontStyle.Bold);
-                dataGridView1.ColumnHeadersDefaultCellStyle.BackColor = Color.FromArgb(51, 102, 153);
-                dataGridView1.ColumnHeadersDefaultCellStyle.ForeColor = Color.White;
-                dataGridView1.DefaultCellStyle.Font = new Font("Rockwell", 14);
-                dataGridView1.DefaultCellStyle.BackColor = Color.White;
-                dataGridView1.DefaultCellStyle.ForeColor = Color.Black;
-                dataGridView1.AlternatingRowsDefaultCellStyle.BackColor = Color.FromArgb(230, 230, 230);
-                dataGridView1.RowHeadersDefaultCellStyle.Font = new Font("Rockwell", 12);
-                dataGridView1.RowHeadersDefaultCellStyle.BackColor = Color.FromArgb(51, 102, 153);
-                dataGridView1.RowHeadersDefaultCellStyle.ForeColor = Color.White;
-                dataGridView1.RowTemplate.Height = 40;
-                dataGridView1.BorderStyle = BorderStyle.None;
-                dataGridView1.CellBorderStyle = DataGridViewCellBorderStyle.SingleHorizontal;
-                dataGridView1.GridColor = Color.Silver;
-                dataGridView1.SelectionMode = DataGridViewSelectionMode.FullRowSelect;
-            */
         }
         private void Form1_Load(object sender, EventArgs e)
         {
